@@ -1,0 +1,132 @@
+{
+  "saveDate": null,
+  "inGameTime": null,
+  "gameProgress": {
+    "percentage": 0.0
+  },
+  "mapInfo": {
+    "currentMap": 0,
+    "maps": [
+      {
+        "name": "Empty Name",
+        "ledgeData": [],
+        "mobData": [],
+        "npcData": [],
+        "itemData": [],
+        "group": [
+          {
+            "X": 325,
+            "Y": 1579,
+            "Width": 69,
+            "Height": 59,
+            "Class": "GroupMember",
+            "Color": "Yellow",
+            "RotationAngle": 0,
+            "IsStatic": false,
+            "IsCollidableWithLive": false,
+            "Level": 1,
+            "MobType": "",
+            "AgroRange": 0,
+            "UnAgroRange": 0,
+            "Weapons": [
+              {
+                "Name": "AK47",
+                "Damage": 1.0,
+                "BulletSpeed": 1.0,
+                "AmmotAmount": 60.0,
+                "CurrentAmmoAmoint": 60.0,
+                "IsReloading": false,
+                "BulletDelay": 1.0,
+                "BulletLifeCount": 10.0,
+                "ReloadSpeed": 30,
+                "Spray": 0.1
+              },
+              {
+                "Name": "AK48",
+                "Damage": 1.0,
+                "BulletSpeed": 10.0,
+                "AmmotAmount": 5.0,
+                "CurrentAmmoAmoint": 60.0,
+                "IsReloading": false,
+                "BulletDelay": 10.0,
+                "BulletLifeCount": 10.0,
+                "ReloadSpeed": 30,
+                "Spray": 0.1
+              }
+            ],
+            "Inventory": [
+              {
+                "Value": 1.0,
+                "IsStackable": false,
+                "Amount": 1,
+                "Name": "Gold"
+              },
+              {
+                "Value": 1.0,
+                "IsStackable": true,
+                "Amount": 3,
+                "Name": "Bones"
+              },
+              {
+                "Value": 100.0,
+                "IsStackable": false,
+                "Amount": 1,
+                "Name": "Piece of Cake"
+              }
+            ],
+            "MaxHP": 100.0,
+            "CurrentHP": 100.0,
+            "Armor": 1.0,
+            "Speed": 1.0,
+            "JumpForce": 1.0,
+            "FlyForce": 1.0,
+            "BodyDamage": 0.0,
+            "KnockbackStrength": 0.0,
+            "EventID": 0,
+            "Name": "Orest",
+            "GroupMemberClass": "Tank",
+            "IsPlayer": true,
+            "isRound": false
+          }
+        ],
+        "destroyableData": []
+      },
+      {
+        "name": "Empty Name",
+        "ledgeData": [],
+        "mobData": [],
+        "npcData": [],
+        "itemData": [],
+        "group": [],
+        "destroyableData": []
+      },
+      {
+        "name": "Empty Name",
+        "ledgeData": [],
+        "mobData": [],
+        "npcData": [],
+        "itemData": [],
+        "group": [],
+        "destroyableData": []
+      },
+      {
+        "name": "Empty Name",
+        "ledgeData": [],
+        "mobData": [],
+        "npcData": [],
+        "itemData": [],
+        "group": [],
+        "destroyableData": []
+      },
+      {
+        "name": "Empty Name",
+        "ledgeData": [],
+        "mobData": [],
+        "npcData": [],
+        "itemData": [],
+        "group": [],
+        "destroyableData": []
+      }
+    ]
+  }
+}

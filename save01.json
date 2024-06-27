@@ -1,0 +1,286 @@
+{
+  "saveData": {
+
+    //saveData
+    "saveDate": "2024-05-07",
+    "inGameTime": "10:01:32",
+
+    //GeneralGameProgress
+    "gameProgress": {
+      "percentage": 10
+    },
+
+
+    //mapInfo
+    "mapInfo": {
+
+      "currentMap": 0,
+
+      "maps": [
+
+
+        //map1
+        "map01",
+        {
+          "name": "Beginning of Nothing",
+
+
+          "mobData": [
+            {
+              "id": 0,
+              "mobType": "Flying",
+              "level": 5,
+              "X": 10,
+              "Y": 10
+            },
+            {
+              "id": 1,
+              "mobType": "Walking",
+              "level": 5,
+              "X": 10,
+              "Y": 10
+            }
+          ],
+
+
+          "npcData": [
+            {
+              "id": 0,
+              "level": 5,
+              "X": 10,
+              "Y": 10,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+              ]
+            }
+          ],
+
+
+          "itemData": [
+            {
+              "id": 0,
+              "itemType": "SavePoint",
+              "X": 10,
+              "Y": 10
+            }
+          ]
+        },
+
+
+        //map02
+        "map02",
+        {
+          "name": "The Edge",
+
+          "mobData": [
+            {
+              "id": 0,
+              "mobType": "Flying",
+              "level": 5,
+              "X": 10,
+              "Y": 10
+            },
+            {
+              "id": 1,
+              "mobType": "Walking",
+              "level": 5,
+              "X": 10,
+              "Y": 10
+            }
+          ],
+
+          "npcData": [
+            {
+              "id": 0,
+              "level": 5,
+              "X": 10,
+              "Y": 10,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+
+
+
+              ]
+            }
+          ],
+
+          "group": [
+
+
+
+            {
+              "name": "Orest",
+              "level": 10,
+              "X": 10,
+              "Y": 10,
+              "class": "Tank",
+              "isPlayer": false,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                },
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+
+
+
+              ]
+            },
+
+
+
+
+            {
+              "name": "George",
+              "level": 8,
+              "X": 10,
+              "Y": 10,
+              "class": "Mechanic",
+              "isPlayer": false,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                },
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+
+
+
+              ]
+            },
+            {
+
+
+
+
+              "name": "Toni",
+              "level": 7,
+              "X": 10,
+              "Y": 10,
+              "class": "Mechanic",
+              "isPlayer": false,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                },
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+
+
+
+              ]
+            },
+
+
+
+
+            {
+              "name": "John",
+              "level": 7,
+              "X": 10,
+              "Y": 10,
+              "class": "Sniper",
+              "isPlayer": true,
+              "weapon": [
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                },
+                {
+                  "name": "AK-47",
+                  "projectile": "Bullet",
+                  "damage": 1
+                }
+
+              ],
+              "inventory": [
+                {
+                  "name": "Credit",
+                  "value": 1,
+                  "amount": 1,
+                  "isStackable": false
+                }
+
+
+
+              ]
+            }
+          ]
+        }
+      ]
+
+
+
+
+    }
+  }
+}
