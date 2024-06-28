@@ -22,3 +22,15 @@ C:\Users\orest\Downloads\pojects\PlatformerEditor\obj\Debug\PlatformerEditor.csp
 C:\Users\orest\Downloads\pojects\PlatformerEditor\obj\Debug\Platform.5969B055.Up2Date
 C:\Users\orest\Downloads\pojects\PlatformerEditor\obj\Debug\PlatformerEditor.exe
 C:\Users\orest\Downloads\pojects\PlatformerEditor\obj\Debug\PlatformerEditor.pdb
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\bin\Debug\PlatformerEditor.exe.config
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\bin\Debug\PlatformerEditor.exe
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\bin\Debug\PlatformerEditor.pdb
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.csproj.AssemblyReference.cache
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.Properties.Resources.resources
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.csproj.GenerateResource.cache
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.csproj.CoreCompileInputs.cache
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\Platform.5969B055.Up2Date
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.exe
+C:\Users\orest\Downloads\pojects\2dCSPlatformerShooterMapEditor\obj\Debug\PlatformerEditor.pdb

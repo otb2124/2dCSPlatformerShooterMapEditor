@@ -1,286 +1,93 @@
 {
-  "saveData": {
-
-    //saveData
-    "saveDate": "2024-05-07",
-    "inGameTime": "10:01:32",
-
-    //GeneralGameProgress
-    "gameProgress": {
-      "percentage": 10
-    },
-
-
-    //mapInfo
-    "mapInfo": {
-
-      "currentMap": 0,
-
-      "maps": [
-
-
-        //map1
-        "map01",
-        {
-          "name": "Beginning of Nothing",
-
-
-          "mobData": [
-            {
-              "id": 0,
-              "mobType": "Flying",
-              "level": 5,
-              "X": 10,
-              "Y": 10
-            },
-            {
-              "id": 1,
-              "mobType": "Walking",
-              "level": 5,
-              "X": 10,
-              "Y": 10
-            }
-          ],
-
-
-          "npcData": [
-            {
-              "id": 0,
-              "level": 5,
-              "X": 10,
-              "Y": 10,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-              ]
-            }
-          ],
-
-
-          "itemData": [
-            {
-              "id": 0,
-              "itemType": "SavePoint",
-              "X": 10,
-              "Y": 10
-            }
-          ]
-        },
-
-
-        //map02
-        "map02",
-        {
-          "name": "The Edge",
-
-          "mobData": [
-            {
-              "id": 0,
-              "mobType": "Flying",
-              "level": 5,
-              "X": 10,
-              "Y": 10
-            },
-            {
-              "id": 1,
-              "mobType": "Walking",
-              "level": 5,
-              "X": 10,
-              "Y": 10
-            }
-          ],
-
-          "npcData": [
-            {
-              "id": 0,
-              "level": 5,
-              "X": 10,
-              "Y": 10,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-
-
-
-              ]
-            }
-          ],
-
-          "group": [
-
-
-
-            {
-              "name": "Orest",
-              "level": 10,
-              "X": 10,
-              "Y": 10,
-              "class": "Tank",
-              "isPlayer": false,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                },
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-
-
-
-              ]
-            },
-
-
-
-
-            {
-              "name": "George",
-              "level": 8,
-              "X": 10,
-              "Y": 10,
-              "class": "Mechanic",
-              "isPlayer": false,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                },
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-
-
-
-              ]
-            },
-            {
-
-
-
-
-              "name": "Toni",
-              "level": 7,
-              "X": 10,
-              "Y": 10,
-              "class": "Mechanic",
-              "isPlayer": false,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                },
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-
-
-
-              ]
-            },
-
-
-
-
-            {
-              "name": "John",
-              "level": 7,
-              "X": 10,
-              "Y": 10,
-              "class": "Sniper",
-              "isPlayer": true,
-              "weapon": [
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                },
-                {
-                  "name": "AK-47",
-                  "projectile": "Bullet",
-                  "damage": 1
-                }
-
-              ],
-              "inventory": [
-                {
-                  "name": "Credit",
-                  "value": 1,
-                  "amount": 1,
-                  "isStackable": false
-                }
-
-
-
-              ]
-            }
-          ]
-        }
-      ]
-
-
-
-
-    }
+  "saveDate": null,
+  "inGameTime": null,
+  "gameProgress": {
+    "percentage": 0.0
+  },
+  "mapInfo": {
+    "currentMap": -1,
+    "maps": [
+      {
+        "name": "Empty Name",
+        "setData": [
+          {
+            "X": 341,
+            "Y": 1719,
+            "Width": 20,
+            "Height": 20,
+            "Class": "Static Rectangle",
+            "Color": "Blue",
+            "RotationAngle": 0,
+            "IsStatic": true,
+            "IsCollidableWithLive": true,
+            "Level": 0,
+            "MobType": null,
+            "AgroRange": 0,
+            "UnAgroRange": 0,
+            "Weapons": null,
+            "Inventory": null,
+            "MaxHP": 0.0,
+            "CurrentHP": 0.0,
+            "Armor": 0.0,
+            "Speed": 0.0,
+            "JumpForce": 0.0,
+            "FlyForce": 0.0,
+            "BodyDamage": 0.0,
+            "KnockbackStrength": 0.0,
+            "EventID": -1,
+            "Name": null,
+            "GroupMemberClass": null,
+            "IsPlayer": false,
+            "isRound": false
+          }
+        ],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      },
+      {
+        "name": "Empty Name",
+        "setData": [],
+        "updatableData": []
+      }
+    ]
   }
 }
